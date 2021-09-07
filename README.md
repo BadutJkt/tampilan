@@ -8,7 +8,7 @@ Pkg install Ruby
 Gem install lolcat
 Pkg install Bash
 Pkg install git
-git clone https://github.com/BadutJkt/tampilan/new/main?readme=1
+git clone https://github.com/BadutJkt/tampilan
 cd tampilan
 Nano .bashrc
 Sh tampilan.sh
